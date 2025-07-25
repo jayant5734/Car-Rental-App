@@ -2,7 +2,6 @@ import { createContext, useContext, useEffect, useState } from "react";
 import axios from 'axios'
 import {toast} from 'react-hot-toast'
 import { useNavigate } from "react-router-dom";
-VITE_BASE_URL=https://car-rental-app-backend-s8rv.onrender.com
 axios.defaults.baseURL = import.meta.env.VITE_BASE_URL
 
 export const AppContext = createContext();
