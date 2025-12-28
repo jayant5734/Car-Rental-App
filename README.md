@@ -1,6 +1,5 @@
-# Car-Rental-App
-
-# 🚗 Car Rental Full-Stack Web App
+# 🚗 Car Rental Full-Stack Web App  
+🚀 **Live Demo:** https://car-rental-blond-sigma.vercel.app/
 
 A modern full-stack car rental web application that allows users to register, browse available cars, make bookings, and manage their rental history. Built with React on the frontend and Node.js/Express with MongoDB on the backend.
 
@@ -45,7 +44,7 @@ A modern full-stack car rental web application that allows users to register, br
 
 ### Installation
 
-1. **Clone the repo**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/car-rental-app.git
    cd car-rental-app
